@@ -1,0 +1,146 @@
+absl-py==0.13.0
+altair==4.1.0
+anyio @ file:///home/volokin/.cache/pypoetry/artifacts/59/84/96/a743685c48fa972243c2c0b03307f841d02ed458d8b10d6a53e5af5583/anyio-3.3.4-py3-none-any.whl
+app==0.1.0
+appdirs==1.4.4
+argon2-cffi==21.1.0
+asgiref @ file:///home/volokin/.cache/pypoetry/artifacts/3f/98/4d/6a033cf821463ecb706293158c40bcde94048c2f69eee1ba0354d1b42f/asgiref-3.4.1-py3-none-any.whl
+astunparse==1.6.3
+attrs==21.2.0
+backcall==0.2.0
+bleach==4.1.0
+cachetools==4.2.2
+certifi @ file:///home/volokin/.cache/pypoetry/artifacts/77/74/3e/daf57610ff13227e3b3f50a78487055f6ac94cc9363abd2463be34c5e9/certifi-2021.10.8-py2.py3-none-any.whl
+cffi==1.14.6
+charset-normalizer @ file:///home/volokin/.cache/pypoetry/artifacts/23/43/96/9c5bffd9765f723eb96925cec608e36125667e8f31b6b3152f0b51716f/charset_normalizer-2.0.7-py3-none-any.whl
+clang==5.0
+click @ file:///home/volokin/.cache/pypoetry/artifacts/3c/f6/a3/2262df8f5a6f3de5bbc78cc13803c60524c8384dce76661fdfe3df975f/click-8.0.3-py3-none-any.whl
+coverage @ file:///home/volokin/.cache/pypoetry/artifacts/ae/72/7e/ad47d6ddd3b18340d3985cdc02706518701d4efefe0d3f5ed7a69ed526/coverage-6.1.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+cvxpy==1.1.17
+cycler==0.10.0
+debugpy==1.4.3
+decorator==5.1.0
+defusedxml==0.7.1
+dnspython==1.16.0
+ecos==2.0.7.post1
+entrypoints==0.3
+fastapi @ file:///home/volokin/.cache/pypoetry/artifacts/77/e3/42/bb381a2e0e6752c56a3863423646f8ad648c6a697b15bb748b9e05f69e/fastapi-0.70.0-py3-none-any.whl
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.40.0
+gunicorn @ file:///home/volokin/.cache/pypoetry/artifacts/eb/33/9c/43e158642e15413395d933fef80bb16fa6b50a6ed8dd157f506b6b2c03/gunicorn-20.1.0-py3-none-any.whl
+h11 @ file:///home/volokin/.cache/pypoetry/artifacts/6f/50/9d/65e5b4940425051d03fab25052973dcf80bbe2f00676b117d40996e468/h11-0.12.0-py3-none-any.whl
+h5py==3.1.0
+httptools @ file:///home/volokin/.cache/pypoetry/artifacts/a0/ff/85/5e75e61c4e572f4fe02d60bf5231c7972cdf251bd9a3cbdb074c83ad05/httptools-0.2.0-cp38-cp38-manylinux1_x86_64.whl
+idna @ file:///home/volokin/.cache/pypoetry/artifacts/f7/09/c9/8e80952436ff87855ddff4891a35ecf913b2b5dc97911f02a070ff2b1f/idna-3.3-py3-none-any.whl
+imageio==2.9.0
+importlib-metadata==4.8.2
+iniconfig @ file:///home/volokin/.cache/pypoetry/artifacts/ac/f9/da/e990ffcd9ec361a68676a5916e391286e1ea5d1b8907ae887e141a71f5/iniconfig-1.1.1-py2.py3-none-any.whl
+ipykernel==6.4.1
+ipython==7.27.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+iso3166 @ file:///home/volokin/.cache/pypoetry/artifacts/3c/28/df/ee222afbd47bf3f64c81117321665f4e4006a780a0f8f00f42f7fc8559/iso3166-2.0.2-py3-none-any.whl
+jedi==0.18.0
+Jinja2==3.0.1
+joblib==1.0.1
+jsonschema==3.2.0
+jupyter-client==7.0.2
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.2
+Markdown==3.3.4
+MarkupSafe==2.0.1
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
+mistune==0.8.4
+nbclient==0.5.4
+nbconvert==6.3.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx==2.6.3
+notebook==6.4.3
+numpy==1.19.5
+oauthlib==3.1.1
+opt-einsum==3.3.0
+osqp==0.6.2.post0
+packaging @ file:///home/volokin/.cache/pypoetry/artifacts/97/a9/40/465a52d3ec4e9927b21488ac9bf7c5fa59e9ee44c337de47d197b804e4/packaging-21.2-py3-none-any.whl
+pandas==1.3.3
+pandocfilters==1.5.0
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==8.3.2
+pluggy @ file:///home/volokin/.cache/pypoetry/artifacts/38/05/d7/70e2b0d553c780097b692ed658b0f553a28f16028d848a98174b1a2249/pluggy-1.0.0-py2.py3-none-any.whl
+prometheus-client==0.11.0
+prompt-toolkit==3.0.20
+protobuf==3.18.0
+ptyprocess==0.7.0
+py @ file:///home/volokin/.cache/pypoetry/artifacts/6b/b2/2b/e6686e7d0183dbd36bd66921efa3e77ce26260a3671524cd86614290e0/py-1.10.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+pydantic @ file:///home/volokin/.cache/pypoetry/artifacts/97/5a/97/6d56f653b6eb23c25fe8bd938764b95b9ddae8d8bcb08fb129df79f752/pydantic-1.8.2-cp38-cp38-manylinux2014_x86_64.whl
+pyee==8.2.2
+Pygments==2.10.0
+pymongo @ file:///home/volokin/.cache/pypoetry/artifacts/9f/58/42/771bb2ce847f3f941f3c7e819f029ede6af7ad7ac00c3e13c6d6f82c7d/pymongo-3.12.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pyparsing==2.4.7
+pyppeteer==0.2.6
+pyrsistent==0.18.0
+pytest @ file:///home/volokin/.cache/pypoetry/artifacts/90/e1/d5/985c1b371486cf5749ce1ec1beac04524dacb0642a52d916fd1aa82671/pytest-6.2.5-py3-none-any.whl
+pytest-cov @ file:///home/volokin/.cache/pypoetry/artifacts/ce/cd/a2/2d987485d9ccd39e0e4c99f44afb2031232743eb1ec04c4ccf1c3d3b44/pytest_cov-3.0.0-py3-none-any.whl
+python-dateutil==2.8.2
+python-dotenv @ file:///home/volokin/.cache/pypoetry/artifacts/17/eb/48/ad499e696c0dece18b36c0de7cc4c9a5ed1ba38de82ef9210b74c9a4c8/python_dotenv-0.19.1-py2.py3-none-any.whl
+pytz==2021.1
+PyWavelets==1.1.1
+PyYAML @ file:///home/volokin/.cache/pypoetry/artifacts/bf/53/84/d5157f3fdf933bead1fc2fa42c8c99d57cbc4fa4528f181b1019c6f711/PyYAML-6.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+pyzmq==22.2.1
+qdldl==0.1.5.post0
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scikit-image==0.18.3
+scikit-learn==0.24.2
+scipy==1.7.1
+scs==2.1.4
+seaborn==0.11.2
+selenium==3.141.0
+Send2Trash==1.8.0
+six==1.15.0
+sniffio @ file:///home/volokin/.cache/pypoetry/artifacts/d0/91/b7/e6203dd46faa656f9ddf9a16cfbc3e51a56fa709d69642affedb2e0eff/sniffio-1.2.0-py3-none-any.whl
+starlette @ file:///home/volokin/.cache/pypoetry/artifacts/a9/31/0f/ef6bb946881fbda543585a71b550fa694fcd8ef903a86ad240c3e6d740/starlette-0.16.0-py3-none-any.whl
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
+termcolor==1.1.0
+terminado==0.12.1
+testpath==0.5.0
+threadpoolctl==2.2.0
+tifffile==2021.8.30
+toml @ file:///home/volokin/.cache/pypoetry/artifacts/9f/8c/c3/7b4f6778d60f3c9fa11f8fd0e48243bbad25a04975e0a01006b6350594/toml-0.10.2-py2.py3-none-any.whl
+tomli @ file:///home/volokin/.cache/pypoetry/artifacts/3b/c8/2c/ed7a5616a47bf1e59f0c44c5c3b25ce372f2186447a22a5e604d61a77e/tomli-1.2.2-py3-none-any.whl
+toolz==0.11.1
+tornado==6.1
+tqdm==4.62.3
+traitlets==5.1.0
+typing-extensions @ file:///home/volokin/.cache/pypoetry/artifacts/63/00/66/294e7d75d34398c27c7ed9b154822f99422b0f11548b11c569c188eb2b/typing_extensions-3.10.0.2-py3-none-any.whl
+urllib3 @ file:///home/volokin/.cache/pypoetry/artifacts/d8/12/e2/1b499db5e41e88fd0f31d0e056a4dc7b53824f63f027fffc1702969c57/urllib3-1.26.7-py2.py3-none-any.whl
+uvicorn @ file:///home/volokin/.cache/pypoetry/artifacts/d6/51/09/63dbce8261b02576dbbc98f94c7aa8dcde399b5547089552a21b997784/uvicorn-0.15.0-py3-none-any.whl
+uvloop @ file:///home/volokin/.cache/pypoetry/artifacts/54/e0/de/84a2b77de9e7cf6c39856123ddd5442b58380c898496505c0a4476904e/uvloop-0.16.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+vega-datasets==0.9.0
+watchgod @ file:///home/volokin/.cache/pypoetry/artifacts/6c/6a/26/d4250285a3207b6e31b03cafa7b8fa8d0859175a65ef243b8373c8a40f/watchgod-0.7-py3-none-any.whl
+wcwidth==0.2.5
+webencodings==0.5.1
+websockets @ file:///home/volokin/.cache/pypoetry/artifacts/ff/6c/3f/3854d575dd44f1025cf1081cc0e22b98dc144dad0e07a1ddd4173615c3/websockets-10.0-cp38-cp38-manylinux2010_x86_64.whl
+Werkzeug==2.0.1
+widgetsnbextension==3.5.1
+wrapt==1.12.1
+zipp==3.6.0
